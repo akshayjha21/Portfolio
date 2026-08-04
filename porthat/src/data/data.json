@@ -184,6 +184,22 @@
       "featured": true
     },
     {
+      "id": "3",
+      "title": "Pippo",
+      "slug": "pippo",
+      "description": "AI-powered CLI personal assistant designed to unify LLM reasoning, persistent memory, RAG, and MCP tool integrations into one experience.",
+      "image": "https://i.postimg.cc/X7Mm56Vg/Modern-Green-Leaf-Nature-Logo.png",
+      "tags": [
+        "AI",
+        "CLI",
+        "MCP",
+        "RAG"
+      ],
+      "github": "https://github.com/akshayvibe/Pippo",
+      "demo": null,
+      "featured": true
+    },
+    {
       "id": "2",
       "title": "Pulse",
       "slug": "pulse",
@@ -210,22 +226,6 @@
         "Revolution"
       ],
       "github":"https://github.com/akshayvibe/SafeSphere.ai",
-      "demo": null,
-      "featured": true
-    },
-    {
-      "id": "3",
-      "title": "Pippo",
-      "slug": "pippo",
-      "description": "AI-powered CLI personal assistant designed to unify LLM reasoning, persistent memory, RAG, and MCP tool integrations into one experience.",
-      "image": "https://i.postimg.cc/X7Mm56Vg/Modern-Green-Leaf-Nature-Logo.png",
-      "tags": [
-        "AI",
-        "CLI",
-        "MCP",
-        "RAG"
-      ],
-      "github": "https://github.com/akshayvibe/synapse",
       "demo": null,
       "featured": true
     }
