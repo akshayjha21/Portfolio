@@ -7,9 +7,9 @@ import type { Project } from "../../types/portfolio";
 
 const GRADIENT_IMAGES = [
   "/assets/gradient1.jpg",
+  "/assets/gradient4.jpg",
   "/assets/gradient2.jpg",
   "/assets/gradient3.jpg",
-  "/assets/gradient4.jpg",
 ];
 
 interface ProjectsProps {
