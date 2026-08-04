@@ -9,7 +9,7 @@
     "banner": "https://i.postimg.cc/hjrqqgFk/banner_(1).jpg", 
     "bio": "CS Student at VIT | Tech Lead @ Google Developer Group | AI Engineer | Building Scalable Systems with Golang",
     "location": "📍India",
-    "resumeUrl": "#",
+    "resumeUrl": "https://drive.google.com/file/d/1xR0I-gY_aWhwsZrjlqF6JXT7tZOJpeIx/view?usp=sharing",
     "email": "akshayjha2111@gmail.com"
   },
   "roles": [
@@ -99,6 +99,14 @@
   },
   "experience": [
     {
+      "company": "Nearz",
+      "role": "Sales Intern",
+      "type": "Salse",
+      "period": "July[ 2026 ]-Present",
+      "location": "Remote",
+      "details": [      ]
+    },
+    {
       "company": "Google Developer Group",
       "role": "Tech Lead",
       "type": "Leadership",
@@ -177,6 +185,21 @@
     },
     {
       "id": "2",
+      "title": "Pulse",
+      "slug": "pulse",
+      "description": "TCP server that handles multiple concurrent connections",
+      "image": "https://i.postimg.cc/Gp2Fngvj/Modern-Green-Leaf-Nature-Logo.png",
+      "tags": [
+        "NetWork",
+        "TCP",
+        "Go"
+      ],
+      "github": "https://github.com/akshayvibe/pulse",
+      "demo": null,
+      "featured": true
+    },
+    {
+      "id": "4",
       "title": "SafeSphere.AI",
       "slug": "SafeSphere.AI",
       "description": "It is designed to empower women online by providing real-time privacy protection, harassment detection, and stalking defense across popular platforms like Gmail, Twitter, Instagram, and Facebook.",
@@ -203,21 +226,6 @@
         "RAG"
       ],
       "github": "https://github.com/akshayvibe/synapse",
-      "demo": null,
-      "featured": true
-    },
-    {
-      "id": "4",
-      "title": "NodeFlow",
-      "slug": "NodeFlow",
-      "description": "Mastered the Power of Absolute Obedience, developing tactical frameworks for its ethical and strategic deployment.",
-      "image": "https://wallpapercave.com/wp/wp2883490.jpg",
-      "tags": [
-        "Geass",
-        "Power",
-        "Control"
-      ],
-      "github": null,
       "demo": null,
       "featured": true
     }
