@@ -115,13 +115,20 @@ export default function Projects({ projects }: ProjectsProps) {
                   {project.description}
                 </p>
                 <div className="flex items-center justify-between gap-2">
-                  <span
+                  {project.github && (
+                    <a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      onClick={(e) => e.stopPropagation()}
                     className="inline-flex items-center gap-1 text-xs font-medium transition-colors whitespace-nowrap"
                     style={{ color: colors.primary }}
-                  >
+                    >
                     View Project
                     <MoveUpRight className="w-3 h-3 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
-                  </span>
+                    </a>
+                  )}
+                  
                   <div className="flex gap-1 flex-shrink-0">
                     {project.tags.slice(0, 2).map((tag) => (
                       <span
