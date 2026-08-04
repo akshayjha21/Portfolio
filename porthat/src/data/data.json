@@ -1,7 +1,7 @@
 {
   "theme": "Ocean",
   "github": "akshayvibe",
-  "illustration": false,
+  "illustration": true,
   "profile": {
     "name": "Akshay Kumar Mishra",
     "handle": "zero",
@@ -203,7 +203,7 @@
       "title": "SafeSphere.AI",
       "slug": "SafeSphere.AI",
       "description": "It is designed to empower women online by providing real-time privacy protection, harassment detection, and stalking defense across popular platforms like Gmail, Twitter, Instagram, and Facebook.",
-      "image": "https://wallpapercave.com/wp/wp2883518.jpg",
+      "image": "https://i.postimg.cc/Dwbss10c/Modern-Green-Leaf-Nature-Logo-(1).png",
       "tags": [
         "CyberSecurity",
         "Women Safety",
@@ -215,8 +215,8 @@
     },
     {
       "id": "3",
-      "title": "Synapse",
-      "slug": "Synapse",
+      "title": "Peeko",
+      "slug": "Peeko",
       "description": "AI-powered CLI personal assistant designed to unify LLM reasoning, persistent memory, RAG, and MCP tool integrations into one experience.",
       "image": "https://wallpapercave.com/wp/wp2883490.jpg",
       "tags": [
